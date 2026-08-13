@@ -1,6 +1,6 @@
 -- Data Cleaning--
-select * 
-from layoffs;
+SELECT* 
+FROM layoffs;
 
 CREATE TABLE  layoffs_staging
 LIKE layoffs;
